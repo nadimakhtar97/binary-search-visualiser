@@ -1,0 +1,14 @@
+.Index {
+    background-color: orange;
+    display:grid;
+    grid-template-rows: 30px;
+    min-height: 40px;
+    width: 50px;
+    place-items: center;
+    /* margin-top: auto; */
+  }
+
+  .Text-Orange{
+
+  }
+  

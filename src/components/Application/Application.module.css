@@ -1,0 +1,7 @@
+.Application{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    height: 586px;
+    /* background-color: rebeccapurple; */
+}

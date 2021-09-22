@@ -1,0 +1,6 @@
+.Control{
+    background-color:skyblue;
+    display: flex;
+    /* flex-direction: column; */
+    height:100%;
+}

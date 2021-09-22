@@ -1,0 +1,21 @@
+.Button{
+
+    margin-right: 22px;
+    text-transform: capitalize;
+    padding: 0.35rem 1.2rem;
+    border : 0.1em solid #FFFFFF;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 0.12em;
+    color:#ffffff;
+    text-align:center;
+    font-weight: 300;
+    font-size: 13px;
+    transition: all 0.2s;
+    /* background-color: rgb(23, 114, 0); */
+    
+}
+
+.Button:hover{
+    color:#000000;
+    background-color:#ffffff;
+}

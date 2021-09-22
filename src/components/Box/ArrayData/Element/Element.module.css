@@ -1,0 +1,9 @@
+.Data {
+  display: flex;
+  background-color: steelblue;
+  height: 50px;
+  width: 50px;
+  justify-content: center;
+  align-items: center;
+  border:1px solid white;
+}
